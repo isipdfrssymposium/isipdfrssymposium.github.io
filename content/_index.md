@@ -17,7 +17,7 @@ description: "Symposium"
 The PDF-RS Symposium is an annual academic event organised by the Research Scholars at the <a href="https://www.isibang.ac.in/~statmath/">Theoretical Statistics and Mathematics Unit (SMU)</a> of the <a href="https://www.isibang.ac.in/">Indian Statistical Institute, Bangalore</a>. It provides a vibrant platform for postdoctoral fellows and research scholars to present their research contributions to an audience consisting of professors, postdoctoral fellows, research scholars and students of the unit, thereby fostering academic exchange and collaboration.
 
 ## Organiser Information
-This year, the symposium is being organised by Arghya Chongdar, a Senior Research Fellow at SMU, ISIBC. For any queries or concerns you are welcome to <a href="mailto:rs_math2002@isibang.ac.in">write to him</a>.
+This year, the symposium is being organised by Arghya Chongdar (SRF, ISIBC) and Ritaman Ghosh (SRF, ISIBC). For any queries or concerns you are welcome to <a href="mailto:rs_math2002@isibang.ac.in">write to the organisers</a>.
 ***
 ## Lecture Schedule
 
@@ -28,7 +28,7 @@ This year, the symposium is being organised by Arghya Chongdar, a Senior Researc
 | 10:30 - 11:15      | Shubham Jain (PDF)     | A transference principle for involution-invariant functional Hilbert spaces  &ensp; ([Abstract](#lecture-1)) |
 | 11:30 - 12:15      | Dibyendu Das (RS)     |  Solvability of Automorphism group of Commutative algebras and Isolated Hypersurface Singularities &ensp; ([Abstract](#lecture-2))|
 | 12:15 - 13:00      | Rumpa Masanta (PDF)     |  Visibility domains in complex manifolds &ensp; ([Abstract](#lecture-3))|
-| 14:15 - 15:00      | Kuldeep Guha Majumder (RS)     |  TBA |
+| 14:15 - 15:00      | Sneha B (RS)     |  Hyponormal contractions and analytic shifts |
 | 15:15 - 16:00      | Soma Das (PDF)     | Invariant subspaces of Brownian shifts &ensp; ([Abstract](#lecture-5))|
 
 ### Day 2 (Tuesday, 03 March, 2026)
@@ -81,9 +81,9 @@ In contrast, for a general domain \(\Omega\), there is no canonical definition o
 
 ### Lecture 4
 
-##### __Speaker:__ Kuldeep Guha Majumder
+##### __Speaker:__ Sneha B
 ##### __Affiliation:__ Senior Research Fellow, SMU, ISI Bangalore.
-##### __Abstract:__ TBA
+##### __Abstract:__ Hyponormal operators are known to be among the most difficult operators to analyze. In this work, we focus on two finite types of hyponormal operators. The first type becomes analytic shifts, while the second type admits analytic models. A basic model for hyponormal operators plays a key role in our analysis. This talk is based on joint work with Neeru Bala and Jaydeb Sarkar.
 
 ### Lecture 5
 
