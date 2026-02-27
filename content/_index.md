@@ -41,6 +41,8 @@ This year, the symposium is being organised by Arghya Chongdar, a Senior Researc
 | 14:15 - 15:00      | Gahin Maiti (RS)     |  Closed Extensions of a Closed Operator &ensp; ([Abstract](#lecture-4-1))|
 | 15:15 - 16:00      | Nilanjan Das (PDF)     | Foguel-type operators similar to contractions &ensp; ([Abstract](#lecture-5-1)) |
 
+***
+
 ## Lecture Abstracts
 
 ### Day 1 (March 02 2026, Monday)
