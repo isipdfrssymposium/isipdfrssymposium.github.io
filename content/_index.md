@@ -21,7 +21,7 @@ This year, the symposium is being organised by Arghya Chongdar, a Senior Researc
 ***
 ## Lecture Schedule
 
-### Day 1 (March 02, 2026, Monday)
+### Day 1 (Monday, 02 March 2026)
 
 | <div style="width:100px">Time</div>      | Speaker | Title  |   
 | ----------- | ----------- | ----- |
@@ -31,7 +31,7 @@ This year, the symposium is being organised by Arghya Chongdar, a Senior Researc
 | 14:15 - 15:00      | Kuldeep Guha Majumder (RS)     |  TBA |
 | 15:15 - 16:00      | Soma Das (PDF)     | Invariant subspaces of Brownian shifts &ensp; ([Abstract](#lecture-5))|
 
-### Day 2 (March 03, 2026, Tuesday)
+### Day 2 (Tuesday, 03 March, 2026)
 
 | <div style="width:100px">Time</div>      | Speaker | Title  |   
 | ----------- | ----------- | ----- |
