@@ -28,7 +28,7 @@ This year, the symposium is being organised by Arghya Chongdar (SRF, ISIBC) and 
 | 10:30 - 11:15      | Shubham Jain (PDF)     | A transference principle for involution-invariant functional Hilbert spaces  &ensp; ([Abstract](#lecture-1)) |
 | 11:30 - 12:15      | Dibyendu Das (RS)     |  Solvability of Automorphism group of Commutative algebras and Isolated Hypersurface Singularities &ensp; ([Abstract](#lecture-2))|
 | 12:15 - 13:00      | Rumpa Masanta (PDF)     |  Visibility domains in complex manifolds &ensp; ([Abstract](#lecture-3))|
-| 14:15 - 15:00      | Sneha B (RS)     |  Hyponormal contractions and analytic shifts |
+| 14:15 - 15:00      | Sneha B (RS)     |  Hyponormal contractions and analytic shifts &ensp; ([Abstract](#lecture-4))|
 | 15:15 - 16:00      | Soma Das (PDF)     | Invariant subspaces of Brownian shifts &ensp; ([Abstract](#lecture-5))|
 
 ### Day 2 (Tuesday, 03 March, 2026)
