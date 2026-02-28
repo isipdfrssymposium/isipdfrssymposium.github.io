@@ -36,7 +36,7 @@ This year, the symposium is being organised by Arghya Chongdar (SRF, ISIBC) and 
 | <div style="width:100px">Time</div>      | Speaker | Title  |   
 | ----------- | ----------- | ----- |
 | 10:30 - 11:15      | Nilanjan Das (PDF)     | Foguel-type operators similar to contractions &ensp; ([Abstract](#lecture-1-1))|
-| 11:30 - 12:15      | Shubham Ovhal (RS)     |  TBA |
+| 11:30 - 12:15      | Shubham Ovhal (RS)     |  Instantaneous Everywhere Explosion of Interacting Diffusions &ensp; ([Abstract](#lecture-2-1)) |
 | 12:15 - 13:00      | Saikat Panja (PDF)     | Words Play with Groups and Algebras &ensp; ([Abstract](#lecture-3-1)) |
 | 14:15 - 15:00      | Gahin Maiti (RS)     |  Closed Extensions of a Closed Operator &ensp; ([Abstract](#lecture-4-1))|
 | 15:15 - 16:00      | Pankaj Dey (PDF)     | Matricial ranges, dilations, and unital contractive maps &ensp; ([Abstract](#lecture-5-1)) |
@@ -107,10 +107,10 @@ This talk is mainly based on joint work with Nilanjan Das and Jaydeb Sarkar.
 
 
 ### Lecture 2
-#### TBA
+#### Instantaneous Everywhere Explosion of Interacting Diffusions
 ##### __Speaker:__ Shubham Ovhal
 ##### __Affiliation:__ Senior Research Fellow, SMU, ISI Bangalore.
-##### __Abstract:__ TBA
+##### __Abstract:__ We consider a system of interacting SDEs on the integer lattice with multiplicative noise and a drift satisfying the finite Osgood's condition. We show instantaneous everywhere blowup for initial profiles decaying slower than \(\exp ( -\sqrt{\big|\log |x|\big|})\). We employ the splitting-up method to compare the interacting system to a one-dimensional SDE which blows up.
 
 ### Lecture 3
 ####  Words Play with Groups and Algebras 
