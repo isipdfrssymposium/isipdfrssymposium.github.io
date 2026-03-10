@@ -14,10 +14,12 @@ description: "Symposium"
 
 
 ## About 
-The PDF-RS Symposium is an annual academic event organised by the Research Scholars at the <a href="https://www.isibang.ac.in/~statmath/">Theoretical Statistics and Mathematics Unit (SMU)</a> of the <a href="https://www.isibang.ac.in/">Indian Statistical Institute, Bangalore</a>. It provides a vibrant platform for postdoctoral fellows and research scholars to present their research contributions to an audience consisting of professors, postdoctoral fellows, research scholars and students of the unit, thereby fostering academic exchange and collaboration.
+The PDF-RS Symposium is an annual academic event organised by the Research Scholars at the <a href="https://www.isibang.ac.in/~statmath/">Theoretical Statistics and Mathematics Unit (SMU)</a> of the <a href="https://www.isibang.ac.in/">Indian Statistical Institute, Bangalore</a> that serves as a platform for postdoctoral fellows and research scholars to present their research contributions.
 
-## Organiser Information
-This year, the symposium is being organised by Arghya Chongdar (SRF, ISIBC) and Ritaman Ghosh (SRF, ISIBC). For any queries or concerns, you are welcome to <a href="mailto:rs_math2002@isibang.ac.in">write to the organisers</a>.
+In 2026, the event was organised over two days (02-03 March 2026) and featured 10 lectures. The organisers were Arghya Chongdar (SRF, ISIBC) and Ritaman Ghosh (SRF, ISIBC).
+
+Photos from the symposium are available <a href="https://www.dropbox.com/scl/fo/kgo6ugxzwoxeszg58jt2d/ABqBmDm0cZUwENWQOS8mUZ4?rlkey=f3xqs9lfnq9w42s49g7dym8vg&st=2qlefe9u&dl=0">here</a>.
+
 ***
 ## Lecture Schedule
 
